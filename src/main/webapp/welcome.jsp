@@ -57,7 +57,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 		<td style="background-color:blue;color:#ffffff;">Department</td>
 		<td style="background-color:blue;color:#ffffff;">Student ID</td>
 		<td style="background-color:blue;color:#ffffff;">Marks</td>
-		<td style="background-color:blue;color:#ffffff;">Pass</td>
+		<td style="background-color:blue;color:#ffffff;">Pass %</td>
 	</tr>
 	${tableHTML}
 </table>
